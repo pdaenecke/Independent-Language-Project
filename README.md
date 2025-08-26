@@ -3,5 +3,7 @@ A simple command-line quiz application built by a small student team. Tests know
 
 # Core Features
 Multiple categories of quiz questions
+
 Two quiz modes; open-ended and multiple choice
+
 Score tracking
