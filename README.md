@@ -7,3 +7,6 @@ Multiple categories of quiz questions
 Two quiz modes; open-ended and multiple choice
 
 Score tracking
+
+# Purpose
+Mainly used to refresh and polish Python fundamentals. I return occassionally to practice new skills and techniques.
